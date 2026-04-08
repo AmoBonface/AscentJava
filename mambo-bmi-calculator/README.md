@@ -27,16 +27,6 @@ width="400"/>
    BMI = Uzani/urefu 
 
 ---
-5. It tells you your BMI category:
-
-| BMI Range | Category |
-|---|---|
-| Below 18.5 | Underweight |
-| 18.5 – 24.9 | Normal weight |
-| 25.0 – 29.9 | Overweight |
-| 30.0 and above | Obese |
-
----
 
 ## ▶️ How to Run
 
@@ -60,18 +50,22 @@ java BMICalculator
 
 ## 🧾 Sample Output
 
-Enter your name: Aming'a
+Enter your name: Aming'a 
 
 Enter your weight : 75.68
 
 Enter your height : 15.6
 
-Hello Mambo!
+Aming'a
 Your BMI is: 4.851282
+
+Ahsante
+
+Karibu!...
 
 ---
 
-## 🧠 What I Learnt
+## 🧠 What I Learned
 
 - Using `Scanner` to take user input from the console
 - Storing values using `String`, `double`, and `int` 
@@ -98,4 +92,3 @@ Scanner I/O, variables, arithmetic |
 
 *Part of my Java learning journey — building toward a 
 full-stack Finance Tracker app.*
-
