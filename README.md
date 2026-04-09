@@ -36,25 +36,23 @@ is to build, break, fix, and document everything along the way.
 
 <div>
 
-### 🟠 
+### 🟠 Mambo BMI Calculator
+
 ![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 ![Language](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
 
 Accepts name, weight and height — calculates and displays BMI.
 
-| Version | Changes Made | Learnt |
-|---|---|---|
-| `v1.0` |  |  |
-| `v1.1` |  |  |
-| `v1.2` | |  |
-
-- **Run:** `javac Mambo.java` → `java Mambo`
-- **Next:** 
+| Version | Changes Made | Concepts Learned |
+|---------|--------------|------------------|
+| [v1.0](https://github.com/AmoBonface/AscentJava/releases/tag/v1.0) | Basic BMI calculation with Scanner input | Scanner I/O, variables, arithmetic |
+| [v1.1](https://github.com/AmoBonface/AscentJava/releases/tag/v1.1) | Added input units, rounding and greetings | Format Specifiers, Precision formatting, Conditionals, Math.round() |
+| [v1.2](https://github.com/AmoBonface/AscentJava/releases/tag/v1.2) |  |  |
 
 ---
 
 ## 📈 Progress Roadmap
-- [x] Java basics
+- [x] Java basics                                                      
 - [x] User input with Scanner
 - [x] Git commits and version control
 - [ ] Exception handling
