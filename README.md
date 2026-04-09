@@ -45,9 +45,12 @@ Accepts name, weight and height — calculates and displays BMI.
 
 | Version | Changes Made | Concepts Learned |
 |---------|--------------|------------------|
-| [v1.0](https://github.com/AmoBonface/AscentJava/releases/tag/v1.0) | Basic BMI calculation with Scanner input | Scanner I/O, variables, arithmetic |
-| [v1.1](https://github.com/AmoBonface/AscentJava/releases/tag/v1.1) | Added input units, rounding and greetings | Format Specifiers, Precision formatting, Conditionals, Math.round() |
-| [v1.2](https://github.com/AmoBonface/AscentJava/releases/tag/v1.2) |  |  |
+| [v1.0](https://github.com/AmoBonface/AscentJava/releases/tag/v1.0) | Basic BMI with Scanner input | Scanner I/O, variables, arithmetic |
+| [v1.1](https://github.com/AmoBonface/AscentJava/releases/tag/v1.1) | Added rounding, units, greetings | Format Specifiers, Conditionals, Math.round() |
+
+📂 [View Source Folder](https://github.com/AmoBonface/AscentJava/tree/main/mambo-bmi-calculator)
+
+**Run:**  `javac Mambo.java` → `java Mambo`
 
 ---
 
