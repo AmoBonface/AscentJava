@@ -78,13 +78,10 @@ formatting in  Java
 
 ## 🔄 Version History
 
-| Version | Changes Made | Concepts Learned |
-|---|---|---|
-| `v1.0` | Basic BMI calculation with Scanner input | 
-Scanner I/O, variables, arithmetic |
-| ⁠`v1.1` ⁠ | Added input units rounding and greetings| 
-Format Specifiers,Precision formatting,Conditionals, 
-Math.round() |
+|Version | Changes Made | Concepts Learned |
+|---------|--------------|------------------|
+| `v1.0` | Basic BMI calculation with Scanner input | Scanner I/O, variables, arithmetic |
+| `v1.1` | Added input units,rounding and greetings | Format Specifiers, Precision formatting, Conditionals, Math.round() |
 
 ---
 
