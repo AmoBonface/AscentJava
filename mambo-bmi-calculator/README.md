@@ -13,9 +13,8 @@ fundamentals of programming.
 
 ## 📸 Preview
 
-<img 
-src="https://github.com/user-attachments/assets/f092c802-1027-4f32-b3ba-6aa5388e9856 
-" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/f092c802-1027-4f32-b3ba-6aa5388e9856 " width="400"/>
 
 ---
 
