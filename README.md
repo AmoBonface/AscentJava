@@ -93,9 +93,9 @@ Motivation: Eat, grow stronger!
 
 | Version | Changes Made | Concepts Learned |
 |---|---|---|
-| [v1.0](https://github.com/AmoBonface/AscentJava/releases/tag/v1.0) | Basic BMI calculation with Scanner input | Scanner I/O, variables, arithmetic |
-| [v1.1](https://github.com/AmoBonface/AscentJava/releases/tag/v1.1)| Added input units, rounding, and greetings | Format specifiers, precision formatting, conditionals, `Math.round()` |
-| `v1.2` | Added metric/imperial units, gender, age, category, advice, and motivation | Encapsulation, static and non-static variables, validation, global/local variables, constants, constructors, getters/setters, method overloading, case expressions |
+| [v1.0](https://github.com/AmoBonface/AscentJava/blob/main/mambo-bmi-calculator/MamboV1.java) | Basic BMI calculation with Scanner input | Scanner I/O, variables, arithmetic |
+| [v1.1](https://github.com/AmoBonface/AscentJava/blob/main/mambo-bmi-calculator/Mambov1.1.java) | Added input units, rounding, and greetings | Format specifiers, precision formatting, conditionals, `Math.round()` |
+| [v1.2](https://github.com/AmoBonface/AscentJava/blob/main/mambo-bmi-calculator/Mambo.java) | Added metric/imperial units, gender, age, category, advice, and motivation | Encapsulation, static and non-static variables, validation, global/local variables, constants, constructors, getters/setters, method overloading, case expressions |
 
 📂 [View Source Folder](https://github.com/AmoBonface/AscentJava/tree/main/mambo-bmi-calculator)
 
@@ -153,4 +153,4 @@ developers, and grow into a professional software engineer.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Gen AI](https://img.shields.io/badge/Gen_AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
+![Gen AI](https://img.shields.io/badge/Gen_AI-FF6F61?style
