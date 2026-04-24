@@ -93,9 +93,24 @@ Motivation: Eat, grow stronger!
 
 | Version | Changes Made | Concepts Learned |
 |---|---|---|
-| `v1.0` | Basic BMI calculation with Scanner input | Scanner I/O, variables, arithmetic |
-| `v1.1` | Added input units, rounding, and greetings | Format specifiers, precision formatting, conditionals, `Math.round()` |
+| [v1.0](https://github.com/AmoBonface/AscentJava/releases/tag/v1.0) | Basic BMI calculation with Scanner input | Scanner I/O, variables, arithmetic |
+| [v1.1](https://github.com/AmoBonface/AscentJava/releases/tag/v1.1)| Added input units, rounding, and greetings | Format specifiers, precision formatting, conditionals, `Math.round()` |
 | `v1.2` | Added metric/imperial units, gender, age, category, advice, and motivation | Encapsulation, static and non-static variables, validation, global/local variables, constants, constructors, getters/setters, method overloading, case expressions |
+
+📂 [View Source Folder](https://github.com/AmoBonface/AscentJava/tree/main/mambo-bmi-calculator)
+
+**Run:**  `javac Mambo.java` → `java Mambo`
+
+---
+
+## 📈 Progress Roadmap
+- [x] Java basics                                                      
+- [x] User input with Scanner
+- [x] Git commits and version control
+- [ ] Exception handling
+- [ ] Object-Oriented Programming projects
+- [ ] Data Structures & Algorithms
+- [ ] Build a full Java console application
 
 ---
 
@@ -117,60 +132,6 @@ Ascentjava 🚀
 ![Internship](https://img.shields.io/badge/2025-Target_Internship-blue?style=for-the-badge)
 
 </div>
-
----
-
-## 👋 Jambo,
-I'm **Aming'a Bonface** — a self-driven Java developer building 
-real projects to grow my skills. I believe the best way to learn 
-is to build, break, fix, and document everything along the way.
-
----
-
-## 🧠 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/Java_Fundamentals-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OOP_Concepts-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Exception_Handling-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Git_&_GitHub-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Scanner_&_I/O-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Gen_AI-purple?style=flat-square"/>
-</p>
-
----
-
-## 📁 Projects
-
-<div>
-
-### 🟠 Mambo BMI Calculator
-
-![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
-![Language](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
-
-Accepts name, weight and height — calculates and displays BMI.
-
-| Version | Changes Made | Concepts Learned |
-|---------|--------------|------------------|
-| [v1.0](https://github.com/AmoBonface/AscentJava/releases/tag/v1.0) | Basic BMI with Scanner input | Scanner I/O, variables, arithmetic |
-| [v1.1](https://github.com/AmoBonface/AscentJava/releases/tag/v1.1) | Added rounding, units, greetings | Format Specifiers, Conditionals, Math.round() |
-
-📂 [View Source Folder](https://github.com/AmoBonface/AscentJava/tree/main/mambo-bmi-calculator)
-
-**Run:**  `javac Mambo.java` → `java Mambo`
-
----
-
-## 📈 Progress Roadmap
-- [x] Java basics                                                      
-- [x] User input with Scanner
-- [x] Git commits and version control
-- [ ] Exception handling
-- [ ] Object-Oriented Programming projects
-- [ ] Data Structures & Algorithms
-- [ ] Build a full Java console application
 
 ---
 
